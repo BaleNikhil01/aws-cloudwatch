@@ -6,4 +6,4 @@ Cloud Watch can be used in:
 --> Log Analysis and Troubleshooting
 --> Cost Monitoring
 --> Resource Monitoring
---> Proactive Monitoring
+--> Proactive Monitoring 
