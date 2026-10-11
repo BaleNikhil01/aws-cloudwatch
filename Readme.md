@@ -10,6 +10,6 @@ Cloud Watch can be used in:
 
 <img width="1826" height="856" alt="Screenshot From 2026-06-20 01-25-34" src="https://github.com/user-attachments/assets/215da9e7-c80e-4e46-b1c2-e052520f06d7" />
 
-<img width="1826" height="828" alt="Screenshot From 2026-06-20 01-10-05" src="https://github.com/user-attachments/assets/b5ca9b23-8953-44ba-9ba2-c1bc2bd8268d" />
+
 
 <img width="1826" height="828" alt="Screenshot From 2026-06-20 01-25-07" src="https://github.com/user-attachments/assets/19d63034-7755-423e-aac2-b521a70c8e83" />
